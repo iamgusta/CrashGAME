@@ -1,36 +1,53 @@
-CrashGAME
+<h1 align="center">
+  🎮 CRASHGAME
+</h1>
 
-CrashGAME é um jogo desenvolvido em Python utilizando a biblioteca Pygame. O projeto foi criado como uma forma de praticar programação e aplicar, na prática, conceitos aprendidos durante meus estudos.
+<h3 align="center">
+  PYTHON • PYGAME • GAME DEVELOPMENT
+</h3>
 
-Sobre o projeto: O jogo foi desenvolvido com foco em praticar lógica de programação, movimentação de personagens, eventos, colisões, pontuação e armazenamento de recordes.
+<p align="center">
+  Um jogo desenvolvido em Python para transformar conceitos de programação em uma experiência prática e interativa.
+</p>
 
-Tecnologias utilizadas
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FFE0&size=20&center=true&vCenter=true&width=900&lines=Building+games+with+Python;Learning+programming+through+practice;Logic+%7C+Events+%7C+Collisions+%7C+Score;From+code+to+gameplay" 
+  />
+</p>
 
-Python
-Pygame
-Git
-GitHub
+---
 
-Principais conceitos praticados
+## 🎯 Sobre o projeto
 
-• Lógica de programação
-• Estruturas de repetição
-• Manipulação de eventos
-• Movimentação de objetos
-• Detecção de colisões
-• Sistema de pontuação
-• Salvamento de recorde
-• Manipulação de imagens
+O **CrashGAME** é um jogo desenvolvido em **Python utilizando a biblioteca Pygame**.
 
-Como executar: Para executar o projeto, é necessário ter o Python instalado.
+O projeto foi criado com o objetivo de colocar em prática conceitos fundamentais de programação através do desenvolvimento de um jogo funcional.
 
-Instale o Pygame com o comando:
-pip install pygame
+Durante o desenvolvimento foram trabalhados conceitos como:
 
-Depois, execute o arquivo:
-python Jogo.py
+- movimentação de personagens;
+- manipulação de eventos;
+- detecção de colisões;
+- sistema de pontuação;
+- armazenamento de recordes;
+- manipulação de imagens;
+- lógica de programação.
 
-Objetivo
-O principal objetivo do CrashGAME foi desenvolver um projeto funcional utilizando Python, colocando em prática conhecimentos de programação e adquirindo experiência com desenvolvimento de jogos.
+Mais do que criar apenas um jogo, o projeto serviu como uma forma de transformar conhecimentos teóricos em uma aplicação prática.
 
-Autor: Gustavo Lopes
+---
+
+## 🧠 Conceitos praticados
+
+```text
+Lógica de Programação
+        │
+        ├── Estruturas de repetição
+        ├── Condicionais
+        ├── Eventos
+        ├── Movimentação
+        ├── Colisões
+        ├── Pontuação
+        ├── Persistência de recordes
+        └── Manipulação de imagens
